@@ -199,7 +199,7 @@ ul.floaticon {
   font-size: 20px;
   line-height: 40px;}
 .circleimg {
-  background-image: url('/nasscom/images/link/DTcS5mX1oT.jpg');
+  background-image: url('../images/link/DTcS5mX1oT.jpg');
   background-size: 100% 100%;
   background-size: cover;
 background-position: center center;
@@ -239,13 +239,13 @@ p.hedpara34 {
   line-height: 30px;
 }
 .circleimg2 {
-  background-image: url('/nasscom/images/link/business.jpg');
+  background-image: url('../images/link/business.jpg');
   background-size: 100% 100%;
   background-size: cover;
 background-position: center center;
 }
 .circleimg3 {
-  background-image: url('/nasscom/images/link/1umUhsi0hq.jpg');
+  background-image: url('../images/link/1umUhsi0hq.jpg');
   background-size: 100% 100%;
   background-size: cover;
 background-position: center center;
